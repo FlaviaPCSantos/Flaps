@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Allow: /vitrine
+Allow: /novidades
+Allow: /sobre
+Disallow: /admin
+Disallow: /api
+Disallow: /*.json$
+Disallow: /admin-login
+
+# Crawl delay
+Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://flaps.manus.space/sitemap.xml

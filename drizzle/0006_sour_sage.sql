@@ -1,0 +1,1 @@
+ALTER TABLE `products` MODIFY COLUMN `mlId` varchar(100);

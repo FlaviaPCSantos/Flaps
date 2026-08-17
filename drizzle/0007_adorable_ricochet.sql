@@ -1,0 +1,1 @@
+ALTER TABLE `products` ADD `mlLink` varchar(1000);

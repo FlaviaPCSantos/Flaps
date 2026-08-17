@@ -1,0 +1,97 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1779126703361,
+      "tag": "0000_parallel_apocalypse",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1779126842263,
+      "tag": "0001_optimal_morgan_stark",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1779128127007,
+      "tag": "0002_wakeful_satana",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1779138098355,
+      "tag": "0003_workable_madripoor",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1779407724067,
+      "tag": "0004_dizzy_patriot",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1779570235654,
+      "tag": "0005_keen_giant_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1780320029487,
+      "tag": "0006_sour_sage",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1782433156105,
+      "tag": "0007_adorable_ricochet",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "5",
+      "when": 1782433708196,
+      "tag": "0008_damp_morlun",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "5",
+      "when": 1784055391517,
+      "tag": "0009_steep_wasp",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "5",
+      "when": 1785723693844,
+      "tag": "0010_far_sandman",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "5",
+      "when": 1786639411731,
+      "tag": "0011_fearless_xorn",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "5",
+      "when": 1786640894770,
+      "tag": "0012_illegal_stone_men",
+      "breakpoints": true
+    }
+  ]
+}
